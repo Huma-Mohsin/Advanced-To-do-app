@@ -1,0 +1,20 @@
+{
+  "name": "task_management_app_2024",
+  "version": "1.0.0",
+  "description": "This is to do app.It is a type of software application designed to help users manage tasks and organize their daily activities.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HUMA MOHSIN",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
